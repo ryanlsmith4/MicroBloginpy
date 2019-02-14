@@ -17,9 +17,9 @@ Flask, and everything that comes with it.
 `$ curl -O https://raw.github.com/pypa/pip/master/contrib/get-pip.py`<br>
 `$ python get-pip.py`<br>
 -install Flask<br>
-`$ pip install Flask<br>
-$ FLASK_APP=hello.py flask run<br>
- * Running on http://localhost:5000/`<br>
+`$ pip install Flask`<br>
+`$ FLASK_APP=hello.py flask run`<br>
+ `* Running on http://localhost:5000/`<br>
 - install VirtualEnv<br>
 `$ pip install Virtualenv`<br>
 # BOOM there ya go!
