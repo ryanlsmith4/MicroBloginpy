@@ -5,7 +5,9 @@ I took on this tutorial to learn Flask a very cool Microframework for Python!
 https://blog.miguelgrinberg.com/
 
 ## Tech
-Flask, and everything that comes with it.
+-Flask, and everything that comes with it.<br>
+Flask-WTF<br>
+
 
 ## How to install/run locally
 -Fork this Repo <br>
@@ -22,4 +24,5 @@ Flask, and everything that comes with it.
  `* Running on http://localhost:5000/`<br>
 - install VirtualEnv<br>
 `$ pip install Virtualenv`<br>
+`$ pip install flask-wtf`
 # BOOM there ya go!
